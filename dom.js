@@ -1,18 +1,18 @@
 // ЗНАКОМСТВО
 
-console.log(document);
+// console.log(document);
 
-const body = document.body;
-console.log(body);
+// const body = document.body;
+// console.log(body);
 
-const list = body.firstElementChild;
-console.log(list);
+// const list = body.firstElementChild;
+// console.log(list);
 
-const firstListItem = list.firstElementChild;
-console.log(firstListItem);
+// const firstListItem = list.firstElementChild;
+// console.log(firstListItem);
 
-const listItems = list.children;
-console.log(listItems);
+// const listItems = list.children;
+// console.log(listItems);
 
 
 // СОЗДАНИЕ ЭЛЕМЕНТОВ

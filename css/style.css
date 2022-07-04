@@ -1,4 +1,4 @@
-body {
+/* body {
     padding: 16px;
 }
 
@@ -35,4 +35,27 @@ body {
 
 .list-item:not(:last-child) {
     margin-bottom: 8px;
+} */
+
+/* EVENT LISTENER */
+
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.register-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.register-form input {
+    margin-bottom: 16px;
+    padding: 8px 12px;
+}
+
+.register-form button {
+    padding: 12px;
 }
